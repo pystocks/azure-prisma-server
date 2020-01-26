@@ -1,7 +1,3 @@
-# azure-prisma-server
-Deploy Prisma to Azure Kubernetes Service
-
-
 Azure Prisma Server
 ----
 This tutorial will walk you through the steps of deploying a Prisma server on Azure Kubernetes Service (AKS).  
