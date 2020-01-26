@@ -22,7 +22,7 @@ GraphQL is a simple yet incredibly powerful abstraction for working with data. P
 
 Login to your Azure portal and type Kubernetes in the search bar at the top of portal page
 
-<img src="images/Portal_Search_Kubernetes.png" >
+<img src="images/Portal_Search_Kubernetes.JPG" >
 
 
 
