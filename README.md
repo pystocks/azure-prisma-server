@@ -7,6 +7,8 @@ Prisma is a database abstraction layer that turns your databases into GraphQL AP
 
 GraphQL is a simple yet incredibly powerful abstraction for working with data. Prisma is the first step towards making GraphQL a universal query language by abstracting away the complexity of SQL and other database APIs.
 
+<img src="Prisma_diagram.png" width="100" >
+
 
 
 
