@@ -20,7 +20,7 @@ GraphQL is a simple yet incredibly powerful abstraction for working with data. P
 
 ## Create Running Kubernetes Cluster in Azure
 
-Login to your Azure portal and type Kubernetes in the search bar at the top of portal page. Select kubernetes service.
+Login to your Azure portal and type Kubernetes in the search bar at the top of portal page. Select Kubernetes service.
 
 <img src="images/Portal_Search_Kubernetes.JPG" >
 
