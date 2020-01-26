@@ -18,9 +18,13 @@ GraphQL is a simple yet incredibly powerful abstraction for working with data. P
 
 * Azure account (We will be using a free tier account)
 
-## Start the server
+## Create Running Kubernetes Cluster in Azure
 
-Once Go is installed, you can simply clone the project and test out the server on your machine. To start server, change into the directory with the file `server.go` and type:
+Login to your Azure portal and type Kubernetes in the search bar at the top of portal page
+
+<img src="images/Portal_Search_Kubernetes.png" >
+
+
 
 ```sh
 $ go run server.go
