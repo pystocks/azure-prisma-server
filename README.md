@@ -29,7 +29,7 @@ Login to your Azure portal and type Kubernetes in the search bar at the top of p
 
 
 
-Click on add button
+Click add button
 
 <img src="images/Add.JPG" >
 <br/><br/>
@@ -45,7 +45,7 @@ Click on add button
 <img src="images/change_nodes.JPG" >
 <br/><br/>
 
-Click create once you reach the vlaidation passed screen. 
+Click create once you reach the validation passed screen. 
 
 -----
 
