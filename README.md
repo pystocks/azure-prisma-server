@@ -23,6 +23,8 @@ GraphQL is a simple yet incredibly powerful abstraction for working with data. P
 Login to your Azure portal and type Kubernetes in the search bar at the top of portal page. Select Kubernetes Service.
 
 <img src="images/Portal_Search_Kubernetes.JPG" >
+<br/><br/>
+<br/><br/>
 
 
 
@@ -30,6 +32,8 @@ Login to your Azure portal and type Kubernetes in the search bar at the top of p
 Click on add button
 
 <img src="images/Add.JPG" >
+<br/><br/>
+<br/><br/>
 
 
 
@@ -39,6 +43,7 @@ Click on add button
 3. Free tier Azure Kubernetes Service as of this writing will only let you choose 2 nodes under node count. Make sure to change the node count from 3 to 2. 
 
 <img src="images/change_nodes.JPG" >
+<br/><br/>
 
 Click create once you reach the vlaidation passed screen. 
 
