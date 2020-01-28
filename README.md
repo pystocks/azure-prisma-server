@@ -20,9 +20,21 @@ GraphQL is a simple yet incredibly powerful abstraction for working with data. P
 
 ## Create Running Kubernetes Cluster in Azure
 
-Login to your Azure portal and type Kubernetes in the search bar at the top of portal page. Select Kubernetes service.
+Login to your Azure portal and type Kubernetes in the search bar at the top of portal page. Select Kubernetes Service.
 
 <img src="images/Portal_Search_Kubernetes.JPG" >
+
+
+Click on add button
+
+Next to resource group, select "create new" and name it myresource.
+
+Under cluster details, name the cluster prisma-project
+
+* Free tier Azure Kubernetes Service as of this writing will only let you choose 2 nodes under node count. Make sure to change the node count from 3 to 2. 
+
+Click create once you reach the vlaidation passed screen. 
+
 
 
 
