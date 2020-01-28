@@ -25,9 +25,14 @@ Login to your Azure portal and type Kubernetes in the search bar at the top of p
 <img src="images/Portal_Search_Kubernetes.JPG" >
 
 
+
+
 Click on add button
 
 <img src="images/Add.JPG" >
+
+
+
 
 1. Next to resource group, select "create new" and name it myresource.
 2. Under cluster details, name the cluster prisma-project
@@ -37,7 +42,7 @@ Click on add button
 
 Click create once you reach the vlaidation passed screen. 
 
-
+-----
 
 
 ```sh
