@@ -27,11 +27,13 @@ Login to your Azure portal and type Kubernetes in the search bar at the top of p
 
 Click on add button
 
-Next to resource group, select "create new" and name it myresource.
+<img src="images/Add.JPG" >
 
-Under cluster details, name the cluster prisma-project
+1. Next to resource group, select "create new" and name it myresource.
+2. Under cluster details, name the cluster prisma-project
+3. Free tier Azure Kubernetes Service as of this writing will only let you choose 2 nodes under node count. Make sure to change the node count from 3 to 2. 
 
-* Free tier Azure Kubernetes Service as of this writing will only let you choose 2 nodes under node count. Make sure to change the node count from 3 to 2. 
+<img src="images/change_nodes.JPG" >
 
 Click create once you reach the vlaidation passed screen. 
 
